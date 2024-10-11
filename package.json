@@ -1,5 +1,5 @@
 {
-    "name": "ABHI-BUG-BOT",
+    "name": "𝐊𝚰𝐋𝐋𝚵𝚪 𝐆𝚮𝚯𝐒𝚻💀☠️🚬",
     "version": "0.0.1",
     "description": "WhatsApp War Bot Using Nodejs",
     "main": "index.js",
@@ -14,7 +14,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "ABHISHEK SURESH",
+    "author": "𝐊𝚰𝐋𝐋𝚵𝚪 𝐆𝚮𝚯𝐒𝚻",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.5.0",
